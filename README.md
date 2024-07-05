@@ -1,4 +1,4 @@
 # demo
 my first repository.
 <br>
-author- shruti(me);
+author- shruti pingle(me);
